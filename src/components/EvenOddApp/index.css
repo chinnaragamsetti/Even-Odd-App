@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.innerbg {
+  background-image: linear-gradient(to bottom, red, yellow);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mainbg {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+.h {
+  color: black;
+}
+.p1 {
+  color: grey;
+}
+.p2 {
+  color: grey;
+}
+.butt {
+  border-radius: 5px;
+  color: grey;
+}
